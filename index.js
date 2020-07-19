@@ -1,3 +1,3 @@
 // Write your code here!
 main.remove();
-let header = document.getElementById("div#header");
+let header = document.createElement('h1#victory');
