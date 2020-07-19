@@ -1,4 +1,4 @@
 // Write your code here!
 main.remove();
 let newHeader = document.querySelector("h1#victory");
-element.innerHTML = 'Hello, DOM!'
+newHeader.innerHTML = 'YOUR-NAME is the champion'
