@@ -1,3 +1,4 @@
 // Write your code here!
 main.remove();
-let newHeader = document.createElement('h1#victory');
+let newHeader = document.querySelector("h1#victory");
+element.innerHTML = 'Hello, DOM!'
