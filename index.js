@@ -1,5 +1,5 @@
 // Write your code here!
 main.remove();
-document.body.appendChild(element)
-let newHeader = document.querySelector("h1#victory");
+
+let newHeader = document.body.appendChild('');
 newHeader.innerHTML = 'YOUR-NAME is the champion';
