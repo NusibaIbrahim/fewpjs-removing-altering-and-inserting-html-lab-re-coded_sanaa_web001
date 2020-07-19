@@ -1,3 +1,3 @@
 // Write your code here!
 main.remove();
- var newDiv = document.createElement("H1"); 
+ var newHeader = document.createElement("H1"); 
